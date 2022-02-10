@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on Full Stack development
+- 🌱 I’m currently learning Nodejs
 - 📫 How to reach me: 1mateus1felipe11@gmail.com
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My nationality is Brazil
  <div>
