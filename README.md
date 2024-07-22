@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Full Stack development
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning Python and AI
 - 📫 How to reach me: 1mateus1felipe11@gmail.com
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My nationality is Brazil
  <div>
