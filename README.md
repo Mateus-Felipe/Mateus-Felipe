@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Mateus-Felipe">
-  <img height="48%" style="max-height: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Felipe&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="48%" style="max-height: 40%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Felipe&theme=tokyonight"/>
+  <img width="49.9%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Felipe&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49.9%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Felipe&theme=tokyonight"/>
 </div>
 
 ## Hi there 👋
