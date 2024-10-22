@@ -1,4 +1,4 @@
-<img height="180em" src="https://github.com/Mateus-Felipe/Mateus-Felipe/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img width="100%" src="https://github.com/Mateus-Felipe/Mateus-Felipe/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 ### Hi there 👋
 
 - 🔭 I’m currently working on Full Stack development
