@@ -1,9 +1,9 @@
 <img width="100%" src="https://github.com/Mateus-Felipe/Mateus-Felipe/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Felipe&theme=tokyonight
 <div>
   <a href="https://github.com/Mateus-Felipe">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Mateus-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Felipe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-Felipe&theme=tokyonight"/>
 </div>
 
 ## Hi there 👋
