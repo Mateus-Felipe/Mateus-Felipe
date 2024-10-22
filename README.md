@@ -1,16 +1,17 @@
-<img width="100%" src="https://github.com/Mateus-Felipe/Mateus-Felipe/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-### Hi there 👋
+<img width="100%" src="https://github.com/Mateus-Felipe/Mateus-Felipe/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
+<div>
+  <a href="https://github.com/Mateus-Felipe">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mateus-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Felipe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## Hi there 👋
 - 🔭 I’m currently working on Full Stack development
 - 🌱 I’m currently learning C#, Python and AI (Updated 20 October 2024)
 - 📫 How to reach me: 1mateus1felipe11@gmail.com
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My nationality is Brazil
 - ⚽ My goal is work out of Brazil
- <div>
-  <a href="https://github.com/Mateus-Felipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Felipe&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
