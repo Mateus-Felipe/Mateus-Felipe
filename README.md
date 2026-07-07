@@ -9,7 +9,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Full Stack development
 - 🌱 I’m currently learning C#, Python and AI (Updated 20 October 2024)
-- 📫 How to reach me: 1mateus1felipe11@gmail.com
+- 📫 How to reach me: contato.mateusfelipe.dev@gmail.com
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 My nationality is Brazil
 - ⚽ My goal is work out of Brazil
 <div style="display: inline_block"><br>
